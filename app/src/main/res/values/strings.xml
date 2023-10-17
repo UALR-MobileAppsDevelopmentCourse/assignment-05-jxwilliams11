@@ -3,11 +3,24 @@
     <string name="scan_chip">Scan</string>
     <string name="top_up_chip">Top Up</string>
     <string name="send_chip">Send</string>
+    <string name="request_chip">Request</string>
     <string name="pulsa_amp_data"><![CDATA[Pulsa & Data]]></string>
     <string name="bonus_pulsa_50">Bonus pulsa 50%</string>
+    <string name="electric_bulb">Electric</string>
+    <string name="cash">Cashout</string>
+    <string name="games">Games</string>
+    <string name="dotdotdot">See All</string>
     <string name="buy_now">BUY NOW</string>
     <string name="invoice">INVOICE</string>
     <string name="calculate_total_btn">calculate total</string>
+    <string name="total">Total:</string>
     <string name="_00_00">00.00</string>
+    <string name="_0_00">0.00</string>
     <string name="dollar_symbol">$</string>
+    <string name="no_discount_button">NO DISCOUNT</string>
+    <string name="discount_button">DISCOUNT</string>
+    <string name="productBox1">Product 01</string>
+    <string name="productBox2">Product 02</string>
+    <string name="productBox3">Product 03</string>
+    <string name="productBox4">Product 04</string>
 </resources>

@@ -36,25 +36,25 @@ captures/
 
 # IntelliJ. user-specific configurations
 *.iml
-.idea
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/libraries
-.idea/codeStyles/Project.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/runConfigurations.xml
-.idea/jarRepositories.xml
+gradle/.idea
+gradle/.idea/workspace.xml
+gradle/.idea/tasks.xml
+gradle/.idea/gradle.xml
+gradle/.idea/assetWizardSettings.xml
+gradle/.idea/dictionaries
+gradle/.idea/libraries
+gradle/.idea/codeStyles/Project.xml
+gradle/.idea/encodings.xml
+gradle/.idea/misc.xml
+gradle/.idea/runConfigurations.xml
+gradle/.idea/jarRepositories.xml
 # DB Navigator plugin
-.idea/dbnavigator.xml
+gradle/.idea/dbnavigator.xml
 # Android Studio 3 in .gitignore file.
-.idea/caches
-.idea/modules.xml
+gradle/.idea/caches
+gradle/.idea/modules.xml
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
-.idea/navEditor.xml
+gradle/.idea/navEditor.xml
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
