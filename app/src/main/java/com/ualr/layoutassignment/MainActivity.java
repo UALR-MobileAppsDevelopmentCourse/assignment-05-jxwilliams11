@@ -35,6 +35,19 @@ public class MainActivity extends AppCompatActivity {
         mBinding = ActivityMainBinding.inflate(getLayoutInflater());
         View view = mBinding.getRoot();
         setContentView(view);
+
+        discount = findViewById(R.id.discountButton);
+        calculate = findViewById(R.id.calculateTotalButton);
+        checkbox1 = findViewById(R.id.product1Box);
+        checkbox2 = findViewById(R.id.product2Box);
+        checkbox3 = findViewById(R.id.product3Box);
+        checkbox4 = findViewById(R.id.product4Box);
+        totalCost = findViewById(R.id.totalDollarAmountText);
+
+        calculate.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){calculateTotal();}
+        });
     }
 
     protected void calculateTotal(){

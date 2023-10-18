@@ -14,6 +14,7 @@
 
     <style name="Chip.Blue" parent="@style/Widget.MaterialComponents.Chip.Action">
         <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">13sp</item>
         <item name="chipBackgroundColor">@color/colorPrimaryDark</item>
         <item name="iconTint">@android:color/white</item>
         <item name="color">@android:color/white</item>
@@ -22,7 +23,7 @@
     </style>
 
     <style name = "BoldText">
-        <item name = "android:textColor">@color/grey_100</item>
+        <item name = "android:textColor">@color/grey_1000</item>
         <item name = "android:textStyle">bold</item>
         <item name = "android:textSize">16sp</item>
     </style>
